@@ -164,7 +164,7 @@ function About() {
           <div className="about-image">
             <div className="image-wrapper">
               <img
-                src="https://media.licdn.com/dms/image/v2/D5603AQE_vBu36ZAWlg/profile-displayphoto-crop_800_800/B56Zz1meJQJIAI-/0/1773647031107?e=1775088000&v=beta&t=27mc9_0Fp_c75EAn9KONofo7ayRqYVWnNk0Q-D6OgrE"
+                src="image.png"
                 alt="Profile"
                 className="profile-image"
               />
