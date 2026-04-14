@@ -1,4 +1,5 @@
 import { useState, useEffect, useRef } from 'react'
+import profileImage from '../../image.png'
 
 function About() {
   const [stats, setStats] = useState({ years: 0, projects: 0, clients: 0 })
@@ -164,7 +165,7 @@ function About() {
           <div className="about-image">
             <div className="image-wrapper">
               <img
-                src="image.png"
+                src={profileImage}
                 alt="Profile"
                 className="profile-image"
               />
